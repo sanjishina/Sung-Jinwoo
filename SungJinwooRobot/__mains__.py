@@ -56,7 +56,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello there, My Name is [Sung Jin-Woo](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
+Hello there, My Name is [Shota](https://telegra.ph/file/5435a3cdcf7da406d897d.jpg)
 I am a Anime Themed Group managing bot from Solo leveling
 I will help you manage your group.
 ✏️ Click Below help button or send /help to know all my Commands.
@@ -82,14 +82,10 @@ buttons = [
     ]
 ]
 HELP_STRINGS = """
-*Main Commands*[:](https://telegra.ph/file/cdc84cf96c58eb4a01dfa.png)
+*Main Commands*[:](https://telegra.ph/file/5435a3cdcf7da406d897d.jpg)
 ✏️ /help: PM's you this message.
 ✏️ /start: You have already used it.
 *All commands can either be used with / or !.*  
-"""
-
-DONATE_STRING = """donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
